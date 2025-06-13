@@ -1,3 +1,3 @@
 # Link in Bio Project
 
-Use this template to create static HTML websites and deploy them on Render.
+This is a one page website using only HTML and CSS. It serves as a link hub for soccer-related content.
